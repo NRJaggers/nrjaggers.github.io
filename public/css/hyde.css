@@ -248,3 +248,21 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* wine/burgundy/maroon */
+.theme-base-0w .sidebar {
+  background-color: #660033;
+}
+.theme-base-0w .content a,
+.theme-base-0w .related-posts li a:hover {
+  color: #9b414c;
+}
+@media (prefers-color-scheme: dark) {
+  .theme-base-0w .sidebar {
+    background-color: #511D28;
+  }
+  .theme-base-0w .content a,
+  .theme-base-0w .related-posts li a:hover {
+    color: #722F37;
+  }
+}

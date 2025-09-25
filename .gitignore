@@ -3,6 +3,7 @@ _gh_pages
 _site
 .ruby-version
 Gemfile.lock
+How_to_use_Hyde.md
 
 # Numerous always-ignore extensions
 *.diff
