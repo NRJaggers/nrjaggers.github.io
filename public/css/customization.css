@@ -1,0 +1,19 @@
+body.landing-bg {
+  background: url('/assets/portrait.jpg') center center/cover no-repeat fixed;
+  min-height: 100vh;
+  position: relative;
+}
+body.landing-bg::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4); /* overlay for readability */
+  z-index: 0;
+  pointer-events: none;
+}
+.sidebar {
+  z-index: 2;
+}
+.content {
+  z-index: 2;
+}
