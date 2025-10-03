@@ -3,28 +3,21 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi, I’m Nathan — a master’s student in Electrical Engineering finishing up my degree and eagerly looking to start my career! My academic journey has taken me across a wide range of fields: from **embedded systems** and **computer architecture** to **machine learning** and **power electronics**. I’ve also dabbled in areas like web design, and I find myself energized by the chance to keep learning and exploring where engineering and creativity intersect.  
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I’ve gained hands-on experience through two internships, and while I don’t have years of industry experience yet, I bring strong technical foundations, curiosity, and an eagerness to grow. I’m open to different roles — whether they’re in systems design, machine learning applications, power, or new areas I haven’t yet discovered.  
 
-There are currently two themes built on Poole:
+I grew up in the East Bay and I’m excited to continue living here and contributing to the fabric of the Bay Area community. This place has shaped me, and I’d love to be part of shaping its future through my work.  
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+**Current Interests & Skills**  
+- Embedded systems & computer architecture  
+- Machine learning & AI applications  
+- Power electronics and energy systems  
+- Web design and creative coding  
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+**Outside of work/study**, my hobbies rotate often. Right now I’m enjoying learning new languages on Duolingo, juggling, exploring geography, watching Bay Area sports (go 49ers and Warriors!), gaming, anime, and picking up piano.  
 
-## Setup
+If you’d like to connect, feel free to [email me](mailto:nathan.r.jaggers@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/nathan-r-jaggers/). I’d love to hear from you.  
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
